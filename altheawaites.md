@@ -6,6 +6,8 @@ I am a passionate, cybersecurity trainee ready to commit myself to exciting new 
 
 - <b>Python</b>
   - [Python for beginners, SoloLearn](https://api2.sololearn.com/v2/certificates/CC-7RRQOTAX/image/jpg)
+- <b>Cybersecurity</b>
+  - [Foundations of Cybersecurity, Google](https://coursera.org/share/185bdf246978afec21bd32a64fd9feb4)
   
 <h2> 🤳 Connect with me:</h2>
 
